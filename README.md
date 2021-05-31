@@ -90,5 +90,4 @@ You can include this contact form in many of your projects. We added color to ou
                             <script src="js/sweetalert.min.js"></script>
 ```
 
-
-Good encodings
+Good Encodings
