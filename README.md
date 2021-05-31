@@ -91,4 +91,4 @@ You can include this contact form in many of your projects. We added color to ou
 ```
 
 
-Good Koding
+Good encodings
